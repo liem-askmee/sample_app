@@ -92,4 +92,3 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-class Class{}
