@@ -92,4 +92,4 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-var string = "string";
+class Word{}
